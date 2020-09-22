@@ -1,0 +1,56 @@
+header {
+    width: 100%;
+    height: 150px;
+    background-color: red
+}
+
+main {
+    width: 600px;
+    height: 1200px;
+    background-color:#CBCBCB;
+    margin: 0 auto;
+}
+
+footer {
+    width: 100%;
+    height: 100px;
+    background-color:#000000;
+    position: fixed;
+    bottom: 0;
+}
+
+#blauwvierkant {
+    width: 214px;
+    height: 214px;
+    background-color: #0000FF;
+    position: relative;
+    top: 43px;
+    left: 114px;
+}
+
+#groenvierkant {
+    width: 214px;
+    height: 214px;
+    background-color: #00FF00;
+    position: absolute;
+    bottom: 43px;
+    right: 114px;
+}
+
+#roodvierkant1 {
+    width: 60px;
+    height: 60px;
+    background-color: red;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+}
+
+#roodvierkant2 {
+    width: 60px;
+    height: 60px;
+    background-color: red;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
